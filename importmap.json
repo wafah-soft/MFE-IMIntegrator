@@ -1,0 +1,5 @@
+{
+    "imports": {
+        "@techmon/module-a": "http://localhost:8080/js/app.js"
+    }
+}
